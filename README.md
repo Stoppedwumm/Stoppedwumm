@@ -11,7 +11,7 @@ Stoppedwumm/Stoppedwumm is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Stoppedwumm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stoppedwumm)](https://github.com/anuraghazra/github-readme-stats)
+[![Stoppedwumm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stoppedwumm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stoppedwumm&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
